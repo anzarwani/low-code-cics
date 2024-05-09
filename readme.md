@@ -24,10 +24,10 @@ Streamlit UI app which imitates a CICS interface -> Data Input -> ML Model deter
 
 ## Demo
 
-![Home](screenshots\home.png)
-![Loan Approved](screenshots\loan_approved.png)
-![Admin](screenshots\admin.png)
-![Batch File for COBOL](screenshots\batch_file.png)
+![Home](https://github.com/anzarwani/low-code-cics/blob/main/screenshots/home.png)
+![Loan Approved](https://github.com/anzarwani/low-code-cics/blob/main/screenshots/loan_approved.png)
+![Admin](https://github.com/anzarwani/low-code-cics/blob/main/screenshots/admin.png)
+![Batch File for COBOL](https://github.com/anzarwani/low-code-cics/blob/main/screenshots/batch_file.png)
 
 ## Tools used
 
